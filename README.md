@@ -311,3 +311,15 @@ Thanks to:
 - [yash-dk](https://github.com/yash-dk) for implementation qBittorrent on Python
 
 And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/Slam-Team/slam-mirrorbot/graphs/contributors).
+
+
+
+# [](https://github.com/LuciferM1/slam-mirrorbot)
+
+
+
+## Installation
+
+### Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
